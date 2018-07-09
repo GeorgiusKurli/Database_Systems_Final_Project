@@ -1,0 +1,88 @@
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\bin\Debug\MySql.Data.dll
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\bin\Debug\MySql.Data.xml
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Login_Form.resources
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Sign_Up_Form.resources
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Specifics_Form.resources
+D:\Binus Stuff\Semester Two\Database System\Microsoft Visual Studio\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Menu_Form.resources
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Admin_Menu.resources
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Login_Form.resources
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.User_Menu.resources
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Menu_Form.resources
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Sign_Up_Form.resources
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Specifics_Form.resources
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.admin_del.resources
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.admin_add.resources
+C:\Users\Windows 10\source\repos\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.admin_modify.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\bin\Debug\MySql.Data.dll
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\bin\Debug\MySql.Data.xml
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.admin_del.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Admin_Menu.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.admin_add.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.admin_modify.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Login_Form.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.User_Menu.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Menu_Form.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Sign_Up_Form.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Specifics_Form.resources
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Binus Stuff\Semester Two\Database System\CUFIS\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\bin\Debug\MySql.Data.xml
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.admin_del.resources
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Admin_Menu.resources
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.admin_add.resources
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.admin_modify.resources
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Login_Form.resources
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.User_Menu.resources
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Menu_Form.resources
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Sign_Up_Form.resources
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.Specifics_Form.resources
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\DHIKA\Desktop\CUFIS\WindowsApp1\obj\Debug\WindowsApp1.pdb
